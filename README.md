@@ -5,7 +5,7 @@
 
 - Developed by mohammadreza mirzai
 
-- Created 20205-3-12
+- Created 2025-3-12
 
 - Technologies Used - react.js , Fully responise with Tailwind
 
