@@ -15,7 +15,7 @@ export default function Signup({ changeForm }) {
       setPasswordAreNotEqual(true);
       return;
     }
-
+    alert("valid")
     console.log(data);
   }
   return (
